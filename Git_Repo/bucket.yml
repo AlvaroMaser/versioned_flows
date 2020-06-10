@@ -1,0 +1,6 @@
+flows:
+  61565602-9535-4db8-ab7c-8bb4cf98562e: {ver: 1, file: New_Group_Git.snapshot, comments: '',
+    author: 'CN=sys_admin, OU=NIFI', created: 1591816599722, flowName: New_Group_Git,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: b04b6145-9ce4-4b37-b8f3-0dbbd253e53b
